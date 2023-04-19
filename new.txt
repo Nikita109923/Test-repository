@@ -1,2 +1,3 @@
 It's new file. It name new.
 It has 2 lines.
+Add something interesting.!.
